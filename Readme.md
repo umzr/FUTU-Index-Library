@@ -21,3 +21,9 @@ I translated some useful TradingView Technical Indicators into FUTU
     Q: Why share those indicators?  
     A: 我要一份工作。  
     A: I want Job.
+    
+# 免責聲明 Limitation of Liability
+
+- 本網頁內容並非投資意見，亦不構成任何投資產品之要約、要約招攬或建議。本資料只作為一般用途，它並沒有考慮您的個人需要、投資目標及特定財政狀況。  
+- By accessing and using this site you acknowledge and accept that the use of the site is at your own risk. We shall not be liable for any direct, indirect, incidental, consequential, special, exemplary or punitive damage or for damages for loss of profits or for loss of revenue arising out of any use of, access to, or inability to use the site.
+
