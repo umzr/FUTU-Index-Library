@@ -8,8 +8,8 @@ Futu `($FUTU)` is Fintech company
 I translated some useful TradingView Technical Indicators into FUTU  
 
 # 指標集 Technical-Indicators-Library
-- [自動斐波那契回調線 Auto Fib Retracement](https://github.com/umzr/FUTU-Indicators-Library/blob/main/Library/FIB_Auto.txt)
-
+- [自動斐波那契回調線 Auto Fib Retracement](https://github.com/umzr/FUTU-Indicators-Library/blob/main/Library/FIB_Auto.txt). 
+    ![](https://raw.githubusercontent.com/umzr/FUTU-Indicators-Library/main/Library/01_Auto_fib.PNG)
 # 你問我答 FAQ
 
 1)  Q: 什麼時候會更新指標集合?   
